@@ -46,7 +46,8 @@ const OrderDetailNextjs = () => {
                 weight="plus"
                 className="mb-1 text-ui-fg-base"
               >
-                Build with the Next.js Storefront
+                Congratulations on taking the first step towards a healthier, stronger body and mind! 🎉
+                Now, let’s dive into how you can protect your body from disease and promote well-being with a balanced lifestyle.
               </Text>
               <Text size="small">
                 Learn about the Next.js starter storefront’s features and how to
